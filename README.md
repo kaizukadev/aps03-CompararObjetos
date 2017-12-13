@@ -1,6 +1,6 @@
 ﻿![Java](/data/java.jpg)
 
-# APS03
+# *APS03*
 
 ## Objetivo:
 Implementar a comparação de objetos de forma que se possa ordenar objetos a partir de atributos arbitrários.
