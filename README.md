@@ -1,4 +1,4 @@
-﻿![GitHub Logo](/data/java.jpg)
+﻿![Java](/data/java.jpg)
 
 #APS03
 
